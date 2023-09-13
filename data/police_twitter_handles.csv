@@ -1,0 +1,189 @@
+username,agency,city,province_territory
+rcmpgrcpolice,RCMP,NA,Canada
+rcmpmb,RCMP,NA,Manitoba
+wpgpolice,Winnipeg Police Service,Winnipeg,Manitoba
+AltonaPolice,Altona Police Servicce,Altona,Manitoba
+BrandonPolice,Brandon Police Service,Brandon,Manitoba
+MordenPolice,Morden Police Service,Morden,Manitoba
+rivers_police,Rivers Police Service,Rivers,Manitoba
+WinklerPolice,Winkler Police Service,Winkler,Manitoba
+MBFNPolice,Manitoba First Nations Police Service,Portage la Prairie (Long Plain First Nation Urban Reserve),Manitoba
+RMSpringfieldPS,Springfield Police Service,Springfield,Manitoba
+BCRCMP,RCMP,NA,British Columbia
+BCRCMPMedia,RCMP Media,NA,British Columbia
+PentictonRCMP,RCMP,Penticton,British Columbia
+VernonNOkRCMP,RCMO,North Okanagan,British Columbia
+SquamishRCMP,RCMP,Squamish,British Columbia
+UFVRD_RCMP,RCMP,Chilliwack,British Columbia
+WhistlerRCMP,RCMP,Whistler,British Columbia
+PortHardyRCMP,RCMP,Port Hardy,British Columbia
+CampbellRivRCMP,RCMP,Campbell River,British Columbia
+DawsonCreekRCMP,RCMP,Dawson Creek,British Columbia
+BurnabyRCMP,RCMP,Burnaby,British Columbia
+comoxvalleyrcmp,RCMP,Comox Valley,British Columbia
+cqrcmp,RCMP,Coquitlam,British Columbia
+CranbrookRCMP,RCMP,Cranbrook,British Columbia
+FtStJamesRCMP,RCMP (account suspended?),Fort St. James,British Columbia
+FortStJohnRCMP,RCMP,Fort St. John,British Columbia
+GoldenRCMP,RCMP (account suspended?),Golden - Field,British Columbia
+KamloopsRCMP,RCMP,Kamloops,British Columbia
+KelownaRCMP,RCMP,Kelowna,British Columbia
+KimberleyRCMP,RCMP,Kimberley,British Columbia
+kitimatrcmp,RCMP,Kitimat,British Columbia
+LangleyRCMP,RCMP,Langley,British Columbia
+LMDRCMP,RCMP,Lower Mainland District,British Columbia
+MissionRCMP,RCMP,Mission,British Columbia
+NanaimoRCMP,RCMP,Nanaimo,British Columbia
+NorthRCMP,RCMP,Prince George (North District),British Columbia
+nvanrcmp,RCMP,North Vancouver,British Columbia
+PG_RCMP,RCMP,Prince George,British Columbia
+RichmondRCMP,RCMP,Richmond,British Columbia
+RidgeRCMP,RCMP,Ridge Meadows,British Columbia
+SidneyRCMP,RCMP,Sidney / North Saanich,British Columbia
+SookeRCMP,RCMP,Sooke,British Columbia
+SoutheastRCMP,RCMP,South East District,British Columbia
+COAST_RCMP,RCMP,Sunshine Coast,British Columbia
+SurreyRCMP,RCMP,Surrey,British Columbia
+TerraceRCMP,RCMP,Terrace,British Columbia
+UclueletRCMP,RCMP,Ucluelet,British Columbia
+PR_RCMP,RCMP,Prince Rupert,British Columbia
+University_RCMP,RCMP,University Endowment Lands,British Columbia
+VanIslandRCMP,RCMP,Vancouver Island District,British Columbia
+WestshoreRCMP,RCMP,West Shore,British Columbia
+WhiteRockRCMP,RCMP,White Rock,British Columbia
+N_CowichanRCMP,RCMP,North Cowichan,British Columbia
+VancouverPD,Vancouver Police Department,Vancouver,British Columbia
+vicpdcanada,Victoria/Esquimalt Police Department,Victoria,British Columbia
+cspoliceservice,Central Saanich Police Service,Central Saanich,British Columbia
+deltapolice,Delta Police Department,Delta,British Columbia
+nelsoncitypd,Nelson Police Department,Nelson,British Columbia
+NewWestPD,New Westminster Police Service,New Westminister,British Columbia
+AbbyPoliceDept,Abbotsford Police Department,Abbotsford,British Columbia
+PortMoodyPD,Port Moody Police Department,Port Moody,British Columbia
+OakBayPolice,Oak Bay Police Department,Oak Bay,British Columbia
+SaanichPolice,Saanich Police Department,Victoria,British Columbia
+WestVanPolice,West Vancouver Police Department,West Vancouver,British Columbia
+surreyps,Surrey Police Service,Surrey,British Columbia
+RCMPAlberta,RCMP,NA,Alberta
+BTPAssociation,Blood Tribe Police Service,Standoff,Alberta
+CalgaryPolice,Calgary Police Service,Calgary,Alberta
+CamrosePolice,Camrose Police Service,Camrose,Alberta
+edmontonpolice,Edmonton Police Service,Edmonton,Alberta
+lacombepolice,Lacombe Police Service,Lacombe,Alberta
+lethpolice,Lethbridge Police Service,Lethbridge,Alberta
+medhatpolice,Medicine Hat Police Service,Medicine Hat,Alberta
+TaberPoliceServ,Taber Police Service,Taber,Alberta
+Tsuutinapolice,Tsuut'ina Nation Police Service,Tsuut'ina Nation,Alberta
+RCMPSK,RCMP,NA,Saskatchewan
+RCMPGravelbourg,RCMP,Gravellbourg,Saskatchewan
+RCMPBigRiver,RCMP,Big River,Saskatchewan
+RCMPKindersley,RCMP,Kindersley,Saskatchewan
+RCMPOnionLake,RCMP,Onion Lake,Saskatchewan
+RCMPYorktonCity,RCMP,Yorkton City,Saskatchewan
+reginapolice,Regina Police Service,Regina,Saskatchewan
+SaskatoonPolice,Saskatoon Police Service,Saskatoon,Saskatchewan
+MJPolice,Moose Jaw Police Service,Moose Jaw,Saskatchewan
+PAPOLICEca,Prince Albert Police Service,Prince Albert,Saskatchewan
+Estevan_Police,Estevan Police Service,Estevan,Saskatchewan
+CormanParkPoli2,Corman Park Police Service,Corman Park,Saskatchewan
+DalmenyPolice,Dalmeny Police Service,Dalmeny,Saskatchewan
+vanscoyrmpolice,Vanscoy Police Service,Vanscoy,Saskatchewan
+WeyburnPolice,Weyburn Police Service,Weyburn,Saskatchewan
+RCMPNB,RCMP,NA,New Brunswick
+CityFredPolice,Fredericton Police Force,Fredericton,New Brunswick
+saintjohnpolice,Saint John Police Force,Saint John,New Brunswick
+CityMirPolice,Miramichi Police Force,Miramichi,New Brunswick
+KRPFnb,Kennebecasis Regional Police Force,Quispamsis,New Brunswick
+BathurstPF1,Bathurst Police Force,Bathurst,New Brunswick
+WoodstockPF_NB,Woodstock Police Force,Woodstock,New Brunswick
+RCMPNS,RCMP,NA,Nova Scotia
+AmherstPD,Amherst Police Department,Amherst,Nova Scotia
+policenews,Bridgewater Police Service,Bridgewater,Nova Scotia
+CBRegPolice,Cape Breton Regional Police Department,Cape Breton,Nova Scotia
+HfxRegPolice,Halifax Regional Police,Halifax,Nova Scotia
+KentvillePS,Kentville Police Service,Kentville,Nova Scotia
+NGRegPolice,New Glasgow Regional Police,New Glasgow,Nova Scotia
+Stellarton_PD,Stellarton Police Service,Stellarton,Nova Scotia
+RCMPNL,RCMP,NA,Newfoundland and Labrador
+RNC_PoliceNL,The Royal Newfoundland Constabulary,NA,Newfoundland and Labrador
+RCMPPEI,RCMP,NA,Prince Edward Island
+ChtownPolice,Charlottetown Police Services,Charlottetown,Prince Edward Island
+KtownPolice,Kensington Police Service,Kensington,Prince Edward Island
+SsidePolice,Summerside Police Department,Summerside,Prince Edward Island
+Nat_Div_RCMP,RCMP National Division,Ottawa,Ontario
+RCMPONT,RCMP,NA,Ontario
+OPP_News,Ontario Provincial Police,NA,Ontario
+TorontoPolice,Toronto Police Service,Toronto,Ontario
+BarriePolice,Barrie Police Service,Barrie,Ontario
+BLVLPolice,Belleville Police Service,Belleville,Ontario
+BrantfordPolice,Brantfod Police Service,Brantford,Ontario
+cwlpolice,Cornwall Police Service,Cornwall,Ontario
+DRPS,Durham Regional Police Service,Durham Region,Ontario
+SudburyPolice,Greater/Grand Sudbury Police Service,Sudbury,Ontario
+GuelphPolice,Guelph Police Service,Guelph,Ontario
+HaltonPolice,Halton Regional Police Service,Halton Region,Ontario
+HamiltonPolice,Hamilton Police Service,Hamilton,Ontario
+KingstonPolice,Kingston Police Service,Kingston,Ontario
+lpsmediaoffice,London Police Service,London,Ontario
+NiagRegPolice,Niagara Regional Police Service,Niagara Region,Ontario
+OttawaPolice,Ottawa Police Service,Ottawa,Ontario
+PeelPolice,Peel Regional Police,Peel Region,Ontario
+PtboPolice,Peterborough Police Service,Peterborough,Ontario
+SarniaPolice,Sarnia Police Service,Sarnia,Ontario
+SaultPolice,Sault Ste. Marie Police Service,Sault Ste. Marie,Ontario
+SouthSimcoePS,South Simcoe Police Service,Bradford/Innisfil,Ontario
+tbpsmedia,Thunder Bay Police Service,Thunder Bay,Ontario
+WindsorPolice,Windsor Police Service,Windsor,Ontario
+YRP,York Regional Police,York Region,Ontario
+Woodstock_PS,Woodstock Police Service,Woodstock,Ontario
+NiagParksPolice,Niagara Parks Police Service,Niagara Falls,Ontario
+AylmerPolice,Aylmer Police,Alymer,Ontario
+CKPSMedia,Chatham-Kent Police Service,Chatham,Ontario
+CobourgPolice,Cobourg Police Service,Cobourg,Ontario
+DrydenPolice,Dryden Police Service,Dryden,Ontario
+GananoquePolice,Gananoque Police Service,Gananoque,Ontario
+WestGreyPolice,West Grey Police Service,West Grey,Ontario
+klpsmedia,Kawartha Lakes Police Service,Lindsay,Ontario
+LaSallePoliceON,LaSalle Police Service,LaSalle,Ontario
+NorthBayPolice,North Bay Police Service,North Bay & Callander,Ontario
+OSpoliceassoc,Owen Sound Police Association,Owen Sound,Ontario
+PortHopePolice,Port Hope Police Service,Port Hope,Ontario
+STPSmedia,St. Thomas Police Service,St. Thomas,Ontario
+SSPSofficial,Saugeen Shores Police Service,Saugeen Shores,Ontario
+SPSmediaoffice,Stratford Police Service,Stratford,Ontario
+SCPSofficer,Strathroy-Caradoc Police Service,Strathroy,Ontario
+TimminsPolice,Timmins Police Service,Timmins,Ontario
+WRPSToday,Waterloo Regional Police Service,Waterloo Region,Ontario
+SNPMiller,Six Nations Police Service,Six Nations Reserve (Oshweken),Ontario
+WikiPolice,Wikwemikong Tribal Police Service,Wikwemikong,Ontario
+NAPS_Police,Nishnawbe-Aski Police Service,Nishnawbe-Aski Nation (Thunder Bay),Ontario
+BPS_News,Brockville Police Service,Brockville,Ontario
+Treaty3Police,Treaty Three Police Service,Kenora,Ontario
+UCCMPOLICE,UCCM Anishnaabe Police Service,M'Chigeeng First Nation,Ontario
+APScops,Anishinabek Police Service,Garden River,Ontario
+Rama_Police,Rama Police Service,Rama,Ontario
+LacSeulPS,Lac Seul Police Service,Sioux Lookout,Ontario
+rcmpqc,RCMP,NA,Québec
+sureteduquebec,Sûreté du Québec,NA,Québec
+SPVM,Service de police de la Ville de Montréal,Montreal,Québec
+BLVpolice,Service de police de la Ville de Blainville,Blainville,Québec
+PoliceRIPTB,Régie de police Thérèse-De Blainville,Thérèse-De Blainville,Québec
+PoliceGatineau,Service de police de la Ville de Gatineau,Gatineau,Québec
+policelaval,Service de police de Laval,Laval,Québec
+PoliceSPAL,Service de police de l'agglomération de Longueuil,Longueuil,Québec
+SPVQ_police,Service de police de la Ville de Québec,Québec City,Québec
+KahnawakePKs,Kanesatake Mohawk Police,Oka (Kanesatake Lands),Québec
+Surete_Ouest,Sécurité Publique de la Ville de Montréal-Ouest,Montréal-Ouest,Québec
+RegiePoliceLDM,Régie de police de Lac des Deux-Montagnes,Deux-Montagnes,Québec
+SPVLpolice,Service de police de la Ville de Lévis,Lévis,Québec
+Police_MRC,Service de police de la MRC des Collines-de-l'Outaouais,La Pêche,Québec
+PoliceRPY,Service de sécurité publique de la Ville de Repentigny,Repentigny,Québec
+riprsl,Régie intermunicipale de police Richelieu-Saint-Laurent,Sainte-Julie,Québec
+SPVSSaguenay,Service de sécurité publique de Saguenay,Saguenay,Québec
+SPSSherbrooke,Service de police de la Ville de Sherbrooke,Sherbrooke,Québec
+PoliceTRB,Service de police de Terrebonne,Terrebonne,Québec
+PoliceGranby,Service de police de la Ville de Granby,Granby,Québec
+spvsj,Service de police de la Ville de Saint-Jérôme,Saint-Jérôme,Québec
+RCMPNT,RCMP,NA,Northwest Territories
+YukonRCMP,RCMP,NA,Yukon
+RCMPNunavut,RCMP,NA,Nunavut
