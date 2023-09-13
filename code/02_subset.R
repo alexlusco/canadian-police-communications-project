@@ -1,8 +1,6 @@
 # ---------------------------------------------------------
 # Created by: Alex Luscombe
 # Date: 2022
-# Repository: https://github.com/alexlusco/canadian-police-twitter
-# ---------------------------------------------------------
 # Description: R code to subset variables from full API outputs of tweets and replies
 # ---------------------------------------------------------
 

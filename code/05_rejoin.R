@@ -1,9 +1,8 @@
 # ---------------------------------------------------------
 # Created by: Alex Luscombe
 # Date: 2022
-# Repository: https://github.com/alexlusco/canadian-police-twitter
-# ---------------------------------------------------------
-# Description: R code to rejoin split police tweet dfs augmented with predicted class in 04_predict_from_fit.R
+# Description: R code to rejoin split police tweet dfs augmented with predicted class in 04_predict_from_fit.R. Stratified random sample also generated and saved
+# to /data for EDA purposes.
 # ---------------------------------------------------------
 
 pacman::p_load(readr, dplyr, stringr)

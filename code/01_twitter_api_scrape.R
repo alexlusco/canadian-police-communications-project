@@ -1,8 +1,6 @@
 # ---------------------------------------------------------
 # Created by: Alex Luscombe
 # Date: 2022
-# Repository: https://github.com/alexlusco/canadian-police-twitter
-# ---------------------------------------------------------
 # Description: Extract all tweets and replies from list of 186 Canadian police usernames from Twitter v2 endpoints using academic Twitter API
 # ---------------------------------------------------------
 

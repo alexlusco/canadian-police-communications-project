@@ -1,8 +1,6 @@
 # ---------------------------------------------------------
 # Created by: Alex Luscombe
 # Date: 2022
-# Repository: https://github.com/alexlusco/canadian-police-twitter
-# ---------------------------------------------------------
 # Description: R code to predict whether or not tweet is instance of desired class based on pre-trained logistic regression model. Note that this code can 
 # be run only after running logistic_regression.R, as fit object required in R environment
 # ---------------------------------------------------------

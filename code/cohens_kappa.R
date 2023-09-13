@@ -1,15 +1,7 @@
 # ---------------------------------------------------------
 # Created by: Alex Luscombe
 # Date: 2022
-# GitHub: alexlusco
-# Repository: https://github.com/alexlusco/canadian-police-twitter
-# ---------------------------------------------------------
-# Description: Annotate random sample of 100 tweets from training
-# sample and calculate cohen's kappa (interrater reliability)
-# ---------------------------------------------------------
-# Notes:
-# - Feel free to explore, modify, and use this script.
-# - If you find it helpful, a star to the repository would be appreciated!
+# Description: Annotate random sample of 100 tweets from training sample and calculate cohen's kappa (interrater reliability)
 # ---------------------------------------------------------
 
 pacman::p_load(googlesheets4, dplyr, irr, tidyr, tibble)
